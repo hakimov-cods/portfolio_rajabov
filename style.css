@@ -429,7 +429,16 @@ background-color:rgb(255, 209, 145);
     margin-left: 70px;
 }
 }
+.section__1{
+    display: flex;
+    justify-content: center;
+    height: 500px;
 
+}
+.section__1 .box{
+    position: relative;
+    top: -200px;
+}
 
 
 
